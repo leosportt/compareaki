@@ -1,0 +1,30 @@
+Descrição
+Adaptador Bluetooth 4.2 + Wifi 5GHz e 2.4GHz USB
+
+Tenha rede sem fio no seu computador ou notebook, com Bluetooth para parear fones de ouvido, controle de vídeo game, impressoras e muito mais, tudo isto em um único dispositivo.
+
+Esse adaptador e instalado sem a necessidade de software (CD) e internet, basta encaixar - USB.
+
+Wifi: funciona com windows 7/8/8.1/10/xp, apenas plug and play. Vista/mac os precisam instalar o driver, instalar o driver, caso necessite pedir via mensagem na sua compra.
+
+Bluetooth: apenas para windows 7/8/8.1/10, não é compatível com vista/xp/mac os. (a luz led azul piscará quando funciona) .
+
+- Versão do HCI e LMP: 8
+- Produto Plug in Play, compatibilidade; computadores com Windows 10/8/7
+- Funciona com celulares para trocar de arquivos entre o computador e o celular.
+- Suporta pareamento de múltiplos dispositivos ao mesmo tempo Ex: 1 controle + 1 Fone
+
+Dispositivos compatíveis (mais comuns):
+
+- Módulo sem fio da Realtek de excelente qualidade
+- Controles (Xbox One S, PS3, PS4, Ípega, Nintendo Switch)
+- Fone, Headset, Headphone
+- Caixa de som
+- Computador, Notebook
+- Teclado, Mouse
+- Impressora
+- Projetor
+- Câmera
+- Raspberry Pi 2 e 3
+- Celular (Apple não tem compatibilidade)
+- Tablet (Apple não tem compatibilidade)
